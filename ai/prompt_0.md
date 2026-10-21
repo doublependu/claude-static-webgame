@@ -25,4 +25,10 @@
 
 
 
+# Choice of technology
+
+- If 3D rendering is needed, use [three.js](https://threejs.org/), unless stated otherwise
+- If multiplayer is needed, use [p3p2](https://p3p2.me), unless stated otherwise
+- If a Physics engine is needed, decide on what's best
+
 
